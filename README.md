@@ -1,4 +1,6 @@
-echo "# BadUSB" >> README.md
+# BadUSB README
+irgendwo muss man ja mal beginnen
+
 git init
 git add README.md
 git commit -m "first commit"
