@@ -1,4 +1,4 @@
-# BadUSB README
+# BadUSB by Flipper Zero
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="github/assets/light_theme_banner.png">
     <source media="(prefers-color-scheme: light)" srcset="github/assets/light_theme_banner.png">
@@ -7,7 +7,14 @@
         src=".github/assets/light_theme_banner.png">
 </picture>
 
-lets start a new repo
-Scope from this repo is to collect my own Flipper Zero Scripts
+# table of contents
+1. [Windows](https://github.com/galliergh/BadUSB/windows/)
+2. [Linux](https://github.com/galliergh/BadUSB/linux/)
+3. [MacOS] comming ...
 
-git remote add origin https://github.com/galliergh/BadUSB.git
+# script format
+
+
+# manufacturer pages
+- [Flipper Zero Official Website](https://flipperzero.one)
+- [User Documentation](https://docs.flipperzero.one). Learn more about your dolphin: specs, usage guides, and anything you want to ask.
