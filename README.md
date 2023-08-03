@@ -8,8 +8,8 @@
 </picture>
 
 # table of contents
-1. [Windows](https://github.com/galliergh/BadUSB/windows/)
-2. [Linux](https://github.com/galliergh/BadUSB/linux/)
+1. [Windows](https://github.com/galliergh/BadUSB/tree/main/windows)
+2. [Linux](https://github.com/galliergh/BadUSB/tree/main/linux)
 3. [MacOS] comming ...
 
 # script format
