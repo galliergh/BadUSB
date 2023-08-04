@@ -1,0 +1,95 @@
+
+REM Title: Buying time Payload
+REM Author: Gallier
+REM Description: Opens KWRITE and writes slowly a Text
+REM Target: Linux
+REM Props: Gallier
+REM Version: 1.0
+REM Category: General
+
+
+REM ==================================================
+REM = Start Program                                  =
+REM ==================================================
+
+DELAY 1000
+GUI r
+DELAY 1000
+STRING kate
+DELAY 1000
+ENTER
+DELAY 750
+CTRL n
+DELAY 750
+ENTER
+
+REM ==================================================
+REM = Start Code                                     =
+REM ==================================================
+
+
+STRING Notitzen schreiben ...
+DEFAULT_DELAY 100
+ENTER
+STRING =
+REPEAT 60
+ENTER
+STRING 10 Minuten
+ENTER
+STRING =
+REPEAT 60
+ENTER
+STRING 20 Minuten
+ENTER
+STRING =
+REPEAT 60
+ENTER
+STRING 30 Minuten
+ENTER
+STRING s
+STRING o
+SPACE
+STRING l
+STRING a
+STRING n
+STRING g
+STRING s
+STRING a
+STRING m
+SPACE
+STRING s
+STRING o
+STRING l
+STRING l
+STRING t
+STRING e
+SPACE
+STRING d
+STRING a
+STRING s
+SPACE
+STRING s
+STRING c
+STRING r
+STRING i
+STRING p
+STRING t
+SPACE
+STRING b
+STRING e
+STRING e
+STRING n
+STRING d
+STRING e
+STRING t
+SPACE
+STRING w
+STRING e
+STRING r
+STRING d
+STRING e
+STRING n
+ENTER
+STRING .
+REPEAT 10
+ENTER
