@@ -1,7 +1,7 @@
 # BadUSB by Flipper Zero
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github/assets/light_theme_banner.png">
-    <source media="(prefers-color-scheme: light)" srcset="github/assets/light_theme_banner.png">
+    <source media="(prefers-color-scheme: dark)" srcset="github/assets/iBInjwYu_43TWVOwt4jMN_lightmode.png">
+    <source media="(prefers-color-scheme: light)" srcset="github/assets/iBInjwYu_43TWVOwt4jMN_lightmode.png">
     <img
         alt="A pixel art of a Dophin with text: Flipper Zero Official Repo"
         src=".github/assets/light_theme_banner.png">
