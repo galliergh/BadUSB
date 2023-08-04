@@ -7,20 +7,20 @@
         src=".github/assets/light_theme_banner.png">
 </picture>
 
-## Table of contents
+### Table of contents
 1. [Windows](https://github.com/galliergh/BadUSB/tree/main/windows)
 2. [Linux](https://github.com/galliergh/BadUSB/tree/main/linux)
 3. [MacOS](https://github.com/galliergh/BadUSB/tree/main/macOS)
 
-## Script format
+### Script format
 - [RuberDucky Script](https://github.com/galliergh/BadUSB/blob/main/BadUsbScriptFormat.md)
 - original [RuberDucky Script v1](https://github.com/galliergh/BadUSB/blob/main/Duckyscript_v1.md) from Hak5
 
-## Manufacturer pages
+### Manufacturer pages
 - [Flipper Zero Official Website](https://flipperzero.one)
 - [User Documentation](https://docs.flipperzero.one). Learn more about your dolphin: specs, usage guides, and anything you want to ask.
 
-## Usage Agreement
+### Usage Agreement
 By downloading and using the scripts provided by galliergh, you are automatically agreeing to the following usage agreement. If you do not agree to the terms of this agreement, you are not permitted to download or use the scripts.
 1. You acknowledge that galliergh ```is not responsible``` for your actions or any damage you may cause as a result of using the scripts.
 2. You are ```permitted``` to share all of the files.
