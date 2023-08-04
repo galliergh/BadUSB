@@ -10,7 +10,7 @@
 # table of contents
 1. [Windows](https://github.com/galliergh/BadUSB/tree/main/windows)
 2. [Linux](https://github.com/galliergh/BadUSB/tree/main/linux)
-3. [MacOS] (https://github.com/galliergh/BadUSB/tree/main/macOS)
+3. [MacOS](https://github.com/galliergh/BadUSB/tree/main/macOS)
 
 # script format
 - [RuberDucky Script](https://github.com/galliergh/BadUSB/blob/main/BadUsbScriptFormat.md)
