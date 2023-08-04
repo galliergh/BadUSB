@@ -13,8 +13,8 @@
 3. [MacOS] comming ...
 
 # script format
-[RuberDucky Script](https://github.com/galliergh/BadUSB/blob/main/BadUsbScriptFormat.md)
-original [RuberDucky Script v1](https://github.com/galliergh/BadUSB/blob/main/Duckyscript_v1.md) from Hak5
+- [RuberDucky Script](https://github.com/galliergh/BadUSB/blob/main/BadUsbScriptFormat.md)
+- original [RuberDucky Script v1](https://github.com/galliergh/BadUSB/blob/main/Duckyscript_v1.md) from Hak5
 
 # manufacturer pages
 - [Flipper Zero Official Website](https://flipperzero.one)
