@@ -8,8 +8,7 @@ STRING kate
 DELAY 500
 ENTER
 DELAY 750
-
-TAB
+CTRL n
 DELAY 500
 ENTER
 
@@ -87,3 +86,4 @@ STRING More information about script syntax can be found here:
 ENTER
 STRING https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/file_formats/BadUsbScriptFormat.md
 ENTER
+
